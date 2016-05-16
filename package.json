@@ -1,0 +1,29 @@
+{
+  "name": "responsive-images",
+  "version": "1.0.0",
+  "description": "compress images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asifChoudhury/udportfolio-optimization.git"
+  },
+  "author": "md asif choudhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asifChoudhury/udportfolio-optimization/issues"
+  },
+  "homepage": "https://github.com/asifChoudhury/udportfolio-optimization#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^1.4.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-mkdir": "^1.0.0"
+  }
+}
